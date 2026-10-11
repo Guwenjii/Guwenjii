@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Guwenjii/Guwenjii/blob/50479a583c5606675e933f6d3952809aa348e966/tgcf.jpg" width="500">
+  <img src="https://github.com/Guwenjii/Guwenjii/blob/50479a583c5606675e933f6d3952809aa348e966/tgcf.jpg" width="50000">
 </p>
 <!--
 **Guwenjii/Guwenjii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
