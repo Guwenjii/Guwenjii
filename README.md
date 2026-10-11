@@ -1,4 +1,4 @@
-𝓕𝓸𝓻 𝓪 𝓽𝓱𝓸𝓾𝓼𝓪𝓷𝓭 𝓪𝓾𝓽𝓾𝓶𝓷𝓼, 𝓼𝓽𝓲𝓵𝓵 𝔂𝓸𝓾.
+༺ 𝐅𝐎𝐑 𝐀 𝐓𝐇𝐎𝐔𝐒𝐀𝐍𝐃 𝐀𝐔𝐓𝐔𝐌𝐍𝐒, 𝐒𝐓𝐈𝐋𝐋 𝐘𝐎𝐔. ༻
 ![image alt](https://github.com/Guwenjii/Guwenjii/blob/50479a583c5606675e933f6d3952809aa348e966/tgcf.jpg)
 <!--
 **Guwenjii/Guwenjii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
